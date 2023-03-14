@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matthias, 23 years old web developer from Chile.
+I'm Matthias, 24 years old web developer from Chile.
 
 - I'm a passionate about programming and backend development.
 - I'm currently studying computer science at the Adolfo Ibañez University.
